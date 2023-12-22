@@ -14,9 +14,9 @@ const { ownername, botname, footer, ig, region, myweb, packname, author, session
 
 //customize settings\\
 global.APIKeys = {'https://zenzapis.xyz': YOUR_API_KEY } //credit goes to sanzy yt, if api key expire, buy it and put it here?\\ https://zenzapis.xyz
-global.owner = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.premium = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.ownernomer = '94761539856' // Add Your number Eg: ['YOUR NUMBER']
+global.owner = ['918637016112'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.premium = ['918637016112'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.ownernomer = '918637016112' // Add Your number Eg: ['YOUR NUMBER']
 // we got your name in your whatsapp
 
 
@@ -25,7 +25,7 @@ global.ownernomer = '94761539856' // Add Your number Eg: ['YOUR NUMBER']
 
 //Don't edit enithing\\
 global.APIs = APIs
-global.ownername = ownername
+global.ownername =  🎊♡⚘𝙍ꪊđ𝕣α𝕣αʝ⚘♡🎊)
 global.botname = botname
 global.footer = footer
 global.ig = ig
